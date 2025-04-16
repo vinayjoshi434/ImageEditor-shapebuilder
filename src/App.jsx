@@ -1,6 +1,6 @@
 import { useState } from "react";
 import SearchBox from "./Components/SearchBox.jsx";
-import ImageGrid from "./Components/Imagegrid.jsx";
+import ImageGrid from "./Components/ImageGrid.jsx";
 import CanvasEdit from "./Components/Canvasedit.jsx";
 
 import usePictures from "./utils/Apihandel";
